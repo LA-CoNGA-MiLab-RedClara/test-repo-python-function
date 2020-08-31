@@ -1,2 +1,1 @@
-## Actividad para los estudiantes
-### Ya entregada por todos
+## Actividad para entrenamientos
